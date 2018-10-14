@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background: red;
+}
+
+.logo {
+  color: #fff;
+  font-size: 40px;
+  font-family: 'Source Sans Pro';
+}
+
+header input {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.active {
+  background: #1aba57;
+}
+
+.news_list_item {
+  background: #efefef;
+}
+
